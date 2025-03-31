@@ -1,6 +1,6 @@
 package org.example;
 
-interface Folder {
-    String getName();
-    String getSize();
+public interface Folder {
+    String name();
+    String size();
 }
